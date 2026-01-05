@@ -52,7 +52,7 @@ No Aadhaar numbers. No biometrics. No PII.
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/<your-username>/uidai-regional-identity-integrity-analytics
+git clone https://github.com/dipanshudhage/uidai-regional-identity-integrity-analytics.git
 cd uidai-regional-identity-integrity-analytics
 
 python -m venv venv
